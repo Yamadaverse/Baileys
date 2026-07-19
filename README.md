@@ -395,7 +395,7 @@ await sock.sendMessage(jid, {
 
 ---
 
-## Why Choose OTAX Baileys?
+## Why Choose OMNIX Baileys?
 
 Because this library offers high stability, full features, and an actively improved pairing process. It is ideal for developers aiming to create professional and secure WhatsApp automation solutions. Support for the latest WhatsApp features ensures compatibility with platform updates.
 
@@ -424,8 +424,8 @@ For complete documentation, installation guides, and implementation examples, pl
 
 For questions, support, or collaboration, feel free to contact the developer:
 
-- **Telegram**: [Telegram Contact](https://t.me/Otapengenkawin)
-- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VbBpBe6BvvsghBmXA23x)
+- **Telegram**: [Telegram Contact](https://t.me/Babehmodssv2)
+- **Channel Telegram**: [Channel WhatsApp](https://t.me/babehmodssid)
 
 ### 🙌 Contributors outside the Baileys code
 
@@ -434,10 +434,10 @@ Thanks to the following awesome contributors who help improve this project 💖
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/OtaXxx17">
-        <img src="https://files.catbox.moe/dgnw8k.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+      <a href="https://github.com/Yamadaverse">
+        <img src="https://rahmad-elaina.my.id/file/12c6229e7a.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
-        <sub><b>OTAX</b></sub>
+        <sub><b>OMNIX</b></sub>
       </a>
     </td>
   </tr>
