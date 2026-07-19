@@ -107,7 +107,7 @@ await sock.sendMessage(jid, {
     eventMessage: { 
         isCanceled: false, 
         name: "Hello World", 
-        description: "OTAX Baileys", 
+        description: "OMNIX Baileys", 
         location: { 
             degreesLatitude: 0, 
             degreesLongitude: 0, 
