@@ -1,5 +1,5 @@
 {
-    "name": "anim91806/baileys",
+    "name": "anim91806/Baileys",
     "version": "2.1.7",
     "description": "WhatsApp Modified By Babehmodss",
     "keywords": [
@@ -10,7 +10,7 @@
         "url": "https://github.com/Yamadaverse/Baileys"
     },
     "license": "MIT",
-    "author": "Orang Biasa",
+    "author": "Babehmodss",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
